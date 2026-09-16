@@ -1,0 +1,41 @@
+{
+  "id": 34,
+  "category": "game-offline",
+  "slug": "borderlands4-solo-build-lab",
+  "target": "Borderlands 4",
+  "appid": "1285190",
+  "summaryRu": "Спецификация испытаний одиночных сборок и ресурсов на копии профиля.",
+  "features": [
+    "Solo skill scenarios",
+    "Equipment test records",
+    "Profile isolation checklist"
+  ],
+  "title": "VaultBuilds — Borderlands 4 — Arsenal",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-store-presence",
+      "sourceId": "steam-top-sellers",
+      "detail": "Present in the retrieved top-seller-filtered store response; regional/session ordering may vary."
+    }
+  ],
+  "brand": "VaultBuilds",
+  "repositoryName": "vaultbuilds-borderlands4-solo-build-lab-arsenal",
+  "githubTopics": [
+    "borderlands-4",
+    "solo-builds",
+    "skill-planning",
+    "profile-notes",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "arsenal"
+}
